@@ -3,3 +3,5 @@ DDL - Creat,Drop, Alter,Rename, Truncate
 DML - CRUD fuctions - Select, insert,update, delete
 DCL - Grant, Revoke
 TCL - Commite,Rollback etc
+
+Now second Topic
